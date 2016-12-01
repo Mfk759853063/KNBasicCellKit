@@ -1,0 +1,2 @@
+/Users/vbn/Library/Developer/Xcode/DerivedData/BasicCellKit-cmikilagwlaoonecuaptbqzfvpvf/Build/Products/Debug-iphonesimulator/BasicCellKit.app
+-
